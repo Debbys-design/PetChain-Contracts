@@ -59,3 +59,6 @@ MIT
 
 <!-- handsoff-issue-1212 -->
 - #1212: [stellar-contracts] Add governance timelock and cancellation policy
+
+<!-- handsoff-issue-1213 -->
+- #1213: [stellar-contracts] Secure contract-upgrade authorization and hash binding
