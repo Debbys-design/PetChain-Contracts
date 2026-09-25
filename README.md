@@ -54,3 +54,8 @@ cargo test
 ## License
 
 MIT
+
+## Handsoff notes
+
+<!-- handsoff-issue-1212 -->
+- #1212: [stellar-contracts] Add governance timelock and cancellation policy
